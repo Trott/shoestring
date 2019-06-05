@@ -24,7 +24,7 @@
     "node": ">=0.8.0"
   },
   "devDependencies": {
-    "gulp": "~3.5.2",
+    "gulp": "~4.0.2",
     "gulp-util": "~2.2.14",
     "gulp-jade": "~0.4.2",
     "gulp-sass": "~0.7.1",
